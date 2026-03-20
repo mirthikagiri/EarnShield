@@ -26,7 +26,7 @@ We propose **EarnShield AI**, an AI-powered parametric insurance platform that p
 ---
 
 ## 🧠 Key Features 
-![Workflow](assers/Workflow.png)
+![Workflow](assets/Workflow.png)
 
 ### 1. Income-Based Protection  
 - Estimate expected earnings using:
