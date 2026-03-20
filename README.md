@@ -70,8 +70,10 @@ We propose **EarnShield AI**, an AI-powered parametric insurance platform that p
 
 ---
 
-## 🛡️ Adversarial Defense & Anti-Spoofing Strategy  
+## 🛡️ Adversarial Defense & Anti-Spoofing Strategy 
+
 ![Flowchart](assets/Adversarial Defense & Anti-Spoofing Strategy.png)
+
 ###  1. Core Principle  
 We avoid relying only on GPS, since it can be spoofed.  
 
