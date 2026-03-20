@@ -19,7 +19,7 @@ Existing insurance systems:
 
 We propose **EarnShield AI**, an AI-powered parametric insurance platform that protects **actual income loss** using real-time activity and contextual signals.  
 ## Architecture
-![Architecture](assets/architecture.png)
+![Architecture](assets/Architecture.png)
 ### 🔥 Core Idea  
 > Instead of triggering payouts only based on events, we detect **real earning disruption** by comparing expected vs actual worker activity.
 
